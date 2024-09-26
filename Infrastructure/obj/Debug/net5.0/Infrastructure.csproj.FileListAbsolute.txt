@@ -1,0 +1,12 @@
+C:\Users\harun.kirtay\source\repos\MonitoringAndControlSystem\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\harun.kirtay\source\repos\MonitoringAndControlSystem\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\harun.kirtay\source\repos\MonitoringAndControlSystem\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\harun.kirtay\source\repos\MonitoringAndControlSystem\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\harun.kirtay\source\repos\MonitoringAndControlSystem\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harun.kirtay\source\repos\MonitoringAndControlSystem\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\harun.kirtay\source\repos\MonitoringAndControlSystem\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\harun.kirtay\source\repos\MonitoringAndControlSystem\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\harun.kirtay\source\repos\MonitoringAndControlSystem\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\harun.kirtay\source\repos\MonitoringAndControlSystem\Infrastructure\obj\Debug\net5.0\refint\Infrastructure.dll
+C:\Users\harun.kirtay\source\repos\MonitoringAndControlSystem\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+C:\Users\harun.kirtay\source\repos\MonitoringAndControlSystem\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
