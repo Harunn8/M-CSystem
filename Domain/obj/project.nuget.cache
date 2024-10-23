@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qpDbxkQtbw03SF7SMtBRb5R5LUp2uDprexxHOiXkvSj4gzlb7rhy+SqaVfap+UuauyHvqALkbmGl+qWQUhOnhQ==",
+  "dgSpecHash": "ljs9sEs8T6o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\harun.kirtay\\.nuget\\packages\\microsoft.aspnet.webapi.client\\4.0.20710\\microsoft.aspnet.webapi.client.4.0.20710.nupkg.sha512",
     "C:\\Users\\harun.kirtay\\.nuget\\packages\\microsoft.aspnet.webapi.core\\4.0.20710\\microsoft.aspnet.webapi.core.4.0.20710.nupkg.sha512",

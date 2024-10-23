@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\harun.kirtay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -102,7 +107,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

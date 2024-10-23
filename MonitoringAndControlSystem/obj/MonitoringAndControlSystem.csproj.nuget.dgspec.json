@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\MonitoringAndControlSystem\\MonitoringAndControlSystem.csproj": {}
+    "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\MonitoringAndControlSystem\\MonitoringAndControlSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Application\\Application.csproj": {
+    "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\harun.kirtay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Application\\obj\\",
+        "outputPath": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Domain\\Domain.csproj"
+              "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -46,6 +46,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -109,18 +114,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Domain\\Domain.csproj": {
+    "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\harun.kirtay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -142,8 +147,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -152,6 +157,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -215,18 +225,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\harun.kirtay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -254,6 +264,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -317,18 +332,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\MonitoringAndControlSystem\\MonitoringAndControlSystem.csproj": {
+    "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\MonitoringAndControlSystem\\MonitoringAndControlSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\MonitoringAndControlSystem\\MonitoringAndControlSystem.csproj",
+        "projectUniqueName": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\MonitoringAndControlSystem\\MonitoringAndControlSystem.csproj",
         "projectName": "MonitoringAndControlSystem",
-        "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\MonitoringAndControlSystem\\MonitoringAndControlSystem.csproj",
+        "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\MonitoringAndControlSystem\\MonitoringAndControlSystem.csproj",
         "packagesPath": "C:\\Users\\harun.kirtay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\MonitoringAndControlSystem\\obj\\",
+        "outputPath": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\MonitoringAndControlSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -350,14 +365,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Application\\Application.csproj"
+              "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Application\\Application.csproj"
               },
-              "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Domain\\Domain.csproj"
+              "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\MonitoringAndControlSystem\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\harun.kirtay\\source\\repos\\M-CSystem\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -366,6 +381,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -428,7 +448,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
